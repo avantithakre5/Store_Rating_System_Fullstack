@@ -1,7 +1,7 @@
 # Brand Rating System
 
 🌟 A comprehensive full-stack application for managing brand ratings with sophisticated role-based access control.
-
+**GitHub Repository:** [Brand Rating System](https://github.com/avantithakre5/Store_Rating_System_Fullstack)
 ## 🚀 Features
 
 ### Multi-Role Architecture
